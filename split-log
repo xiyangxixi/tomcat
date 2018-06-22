@@ -1,0 +1,2 @@
+# 使用cronolog切割tomcat日志，每天生成一个日志，方便后续查看
+参考：https://blog.csdn.net/qq_33250152/article/details/78801080 以及 有道云笔记
