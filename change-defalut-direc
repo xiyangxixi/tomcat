@@ -4,6 +4,8 @@ export JAVA_HOME=/opt/cobweb/jdk/jdk1.8.0_144
 
 export JRE_HOME=/opt/cobweb/jdk/jdk1.8.0_144/jre
 
-export CATALINA_HOME=/data/apache-tomcat8-8020 export CATALINA_BASE=/data/apache-tomcat8-8020 
+export CATALINA_HOME=/data/apache-tomcat8-8020 
+
+export CATALINA_BASE=/data/apache-tomcat8-8020 
 
 # export JAVA_OPTS="-server -XX:PermSize=64M -XX:MaxPermSize=128m"
