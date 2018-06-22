@@ -1,0 +1,3 @@
+# Jenkins：解决tomcat在job结束时关闭问题 参考：https://blog.csdn.net/hwhua1986/article/details/50789610
+
+在系统设置--管理类节点中添加环境变量：BUILD_ID 值为：DontKillMe
